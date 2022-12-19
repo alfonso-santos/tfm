@@ -1,3 +1,9 @@
+#credenciaqles
+credentials
+
+#data
+data/fillings
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
